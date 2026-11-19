@@ -2,9 +2,9 @@
 
 # Hi, I’m Moncef 👋
 
-**Data Science · Machine Learning · Applied AI**
+**Data Science · Artificial Intelligence**
 
-I work on projects in time series analysis, federated learning, and reinforcement learning.
+My interests lie in data science and artificial intelligence, especially their applications to real-world problems.
 
 [![GitHub repositories](https://img.shields.io/badge/GitHub-Repositories-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/moncef-prog?tab=repositories)
 [![GitHub contributions](https://img.shields.io/badge/GitHub-Contributions-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/moncef-prog#js-contribution-activity)
@@ -12,6 +12,10 @@ I work on projects in time series analysis, federated learning, and reinforcemen
 </div>
 
 ---
+
+## About me
+
+Through my studies and personal projects, I’m building a foundation in data science and artificial intelligence. I enjoy exploring how statistical methods and machine learning can help answer practical questions, and I’m interested in what makes AI systems reliable and useful.
 
 ## What I work on
 
@@ -26,7 +30,6 @@ I work on projects in time series analysis, federated learning, and reinforcemen
 A clinical gait classification project comparing centralized training with federated training across simulated hospitals. The experiment evaluates model performance when each site keeps its data locally.
 
 **Framework** · Fed-BioMed
-
 
 ### [Dion’t Be Late](https://github.com/moncef-prog/Dion_t_Be_Late)
 
