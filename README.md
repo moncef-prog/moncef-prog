@@ -27,13 +27,44 @@ A clinical gait classification project comparing centralized training with feder
 
 **Framework** · Fed-BioMed
 
+### [rap](https://github.com/moncef-prog/rap)
 
 ### [Dion’t Be Late](https://github.com/moncef-prog/Dion_t_Be_Late)
 
-## Tools
+## Technologies and tools
 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-31516D?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-31516D?style=flat-square)
+
+**Data analysis and visualization**
+
+![NumPy](https://img.shields.io/badge/NumPy-286784?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-286784?style=flat-square)
+![SciPy](https://img.shields.io/badge/SciPy-286784?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-286784?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-286784?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
+
+**Machine learning and AI**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-574593?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-574593?style=flat-square)
+![TorchVision](https://img.shields.io/badge/TorchVision-574593?style=flat-square)
 ![Fed-BioMed](https://img.shields.io/badge/Fed--BioMed-574593?style=flat-square)
-![Git](https://img.shields.io/badge/Git-9D3722?style=flat-square&logo=git&logoColor=white)
+
+**Version control**
+
+![Git](https://img.shields.io/badge/Git-374151?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-374151?style=flat-square)
+
+## Certifications
+
+| Certificate | Issuer | Issued |
+| --- | --- | --- |
+| Python pour tous | LinkedIn | November 2025 |
+| L'essentiel de Power BI | LinkedIn | November 2025 |
 
 ## Get in touch
 
