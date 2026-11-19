@@ -27,7 +27,6 @@ A clinical gait classification project comparing centralized training with feder
 
 **Framework** · Fed-BioMed
 
-### [rap](https://github.com/moncef-prog/rap)
 
 ### [Dion’t Be Late](https://github.com/moncef-prog/Dion_t_Be_Late)
 
